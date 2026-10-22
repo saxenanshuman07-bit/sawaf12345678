@@ -61,8 +61,6 @@ Test my Live vulnerable Web Application for Penetrate Testing <br>
 
 - 🤝 I’m looking for help with [Docker](Docker)
 
-- 👨‍💻 All of my projects are available at [https://github.com/aadi-12345678/sawaf-vulnerable](https://github.com/aadi-12345678/sawaf-vulnerable)
-
 - 📝 I regularly write articles on [https://aaditya-saxena.blogspot.com/](https://aaditya-saxena.blogspot.com/)
 
 - 💬 Ask me about **Docker**
