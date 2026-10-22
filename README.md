@@ -28,7 +28,7 @@ I have made with love
 <h1>🛸</h1>
 
 <h4>It is fully made in HTML</h4>
-<img width="1301" height="932" alt="Screenshot 2026-08-12 154355" src="https://github.com/user-attachments/assets/b6eaa394-b765-4ab2-a09a-dfc78c9d3d97" />
+
 
 <img width="1886" height="939" alt="Screenshot 2026-08-12 163616" src="https://github.com/user-attachments/assets/24a60f62-16ec-4be5-aad7-035c131002e5" />
 Here’s everything combined into one command block:
